@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "commit Python - Hello, World"
+git push
