@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "commit Python - import & modules"
+git commit -m "commit task import - modules"
 git push
